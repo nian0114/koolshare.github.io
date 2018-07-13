@@ -131,8 +131,8 @@ function reload_Soft_Center() {
 }
 
 function setIframeSrc() {
-	var s1 = "http://1212.ip138.com/ic.asp";
-	var s2 = "http://x302.rashost.com/ip.php";
+	var s1 = "http://2018.ip138.com/ic.asp";
+	var s2 = "http://www.rashost.com/ip.php";
 	var s3 = "http://ip111cn.appspot.com/";
 	var iframe1 = document.getElementById('iframe1');
 	var iframe2 = document.getElementById('iframe2');
@@ -299,7 +299,7 @@ function version_show() {
 <tr>
 <th>谷歌等和谐网站</th>
 <td colspan="2">
-<iframe id="iframe3" src="" height="55px" scrolling="no" frameborder="0"></iframe> 
+<iframe id="iframe3" src="" height="55px" scrolling="no" frameborder="0"></iframe>
 </td>
 </tr>
 </table>
